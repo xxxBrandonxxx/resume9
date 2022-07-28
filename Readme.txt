@@ -22,3 +22,19 @@ body { background-color: blue; }
 @media only screen and (min-width: 1200px) {
    body { background-color: orange; }
 }
+
+
+
+
+
+
+
+
+<p>My first Job was at <a href="http://www.sisainspection.co.za/ "  target="_blank"> De-tect Unit Inspection</a> as a NDT-(Non destructive testing)</p>
+        <p>I also ran a resort at <a href="https://www.wheretostay.co.za/town/gouritsmond/self-catering-house/ "  target="_blank">Borrelfontein </a>where i was in charge of everything from maintenance to accommodation</p>
+        <p>My last job before i started my path on becoming a software engineer i was a machinist Engineer at <a href="https://www.sayellow.com/view/south-africa/ekap-engineering-key-and-pins-in-boksburg/ "  target="_blank">Ekap</a> Engineering machinists create precision industrial parts by using machine tools to cut, shave and bore metal pieces. This job entails adjusting machine parts, measuring completed products and calculating dimensions</p>
+        
+        <p>I have worked as a.</p>
+            <p>NDT technician and studied at Africa institute of welding</p>
+            <p>I worked as a machinist in a Engineering compony</p>
+            <p>I  was a Resort Manager in Borrelfontein located Mossel-bay</p>
